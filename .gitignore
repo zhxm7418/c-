@@ -1,0 +1,11 @@
+.vs/
+out/
+Debug/
+Release/
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.user
+*.db

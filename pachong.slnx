@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pachong/pachong.vcxproj" Id="c9daf419-5443-4314-8064-227fd5280161" />
+</Solution>
